@@ -1,5 +1,7 @@
 Из папки фронта client запустить npm start
+
 из корневой папки npm run start:dev
+
 фронт доступен по http://localhost:3001/
 
 
